@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/yuekalong"><img src="https://github.com/yuekalong/yuekalong/blob/main/devcard.svg" width="200" alt="Yue Ka Long's Dev Card"/></a>
+
 <!--
 **yuekalong/yuekalong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
